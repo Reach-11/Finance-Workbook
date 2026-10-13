@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker (USD & KHR)",
+  "description": "Comprehensive personal finance management web application with dual-language Khmer and English support, monthly budgeting, payday allocation, transaction log, investment P&L tracker, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
